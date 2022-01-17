@@ -1,6 +1,7 @@
 #ifndef ADVANCED_INITIALIZATION_HPP
 #define ADVANCED_INITIALIZATION_HPP
 #include "HeaderFile.h"
+#define  M_PI 3.1415926
 namespace Chapter1_DenseMatrixAndArrary
 {
 // 本页讨论了几种初始化矩阵的高级方法。
